@@ -1,0 +1,16 @@
+.MuiMultiSectionDigitalClockSection-item.Mui-selected {
+  background-color: red !important;
+}
+
+.MuiPickersDay-root.Mui-selected {
+  background-color: red !important;
+}
+.MuiPickersDay-root {
+  border-color: red !important;
+}
+
+.MuiOutlinedInput-notchedOutline legend span {
+  background-color: red !important;
+  display: none;
+  left: -10px;
+}
